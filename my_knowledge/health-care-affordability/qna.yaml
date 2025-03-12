@@ -16,7 +16,7 @@ seed_examples:
           Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
       - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
         answer: |
-          As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.     
+          As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.
       - question: How do policy makers evaluate the current health care challenges?
         answer: |
           To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
@@ -30,9 +30,9 @@ seed_examples:
       - question: What types of expenses are included in member cost-sharing?
         answer: |
           Member cost-sharing includes deductibles, copays, and co-insurance, which are medical expenses allowed under a member's plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies.
-      - question: Why are out-of-pocket payments for goods and services not covered by health insurance policies excluded from member cost-sharing? 
+      - question: Why are out-of-pocket payments for goods and services not covered by health insurance policies excluded from member cost-sharing?
         answer: |
-          Out-of-pocket payments for goods and services not covered by health insurance policies, such as over-the-counter medicines, standalone vision and dental care, are excluded from member cost-sharing because they are not related to medical expenses covered by the health insurance policy.  
+          Out-of-pocket payments for goods and services not covered by health insurance policies, such as over-the-counter medicines, standalone vision and dental care, are excluded from member cost-sharing because they are not related to medical expenses covered by the health insurance policy.
       - question: Are employer offsets, such as health reimbursement arrangements or health savings accounts, taken into account when calculating member cost-sharing?
         answer: |
           No, employer offsets, such as health reimbursement arrangements or health savings accounts, are not taken into account when calculating member cost-sharing. This means that these types of payments are not included in the member's out-of-pocket expenses and are not considered when determining their cost-sharing obligations.
@@ -67,10 +67,10 @@ seed_examples:
       - question: What are the two main ways private commercial insurance is administered in Massachusetts?
         answer: |
           Private commercial insurance is administered on either a fully-insured or self-insured contract-basis.
-      - question:  Who assumes the financial risk for medical claims costs in a self-insured coverage arrangement?
+      - question: Who assumes the financial risk for medical claims costs in a self-insured coverage arrangement?
         answer: |
           In a self-insured coverage arrangement, the employer retains the financial risk for medical claims costs.
-      - question:  What is reported by CHIA for fully-insured coverage, and what is deducted from it?
+      - question: What is reported by CHIA for fully-insured coverage, and what is deducted from it?
         answer: |
           For fully-insured coverage, CHIA reports the full premium amount collected by health plans, inclusive of member contributions, employer contributions, and federal and state premium credits and subsidies. Fully-insured premiums are reported net of Medical Loss Ratio (MLR) rebates.
 
@@ -105,7 +105,7 @@ seed_examples:
       - question: How does the MHIS define a High-Deductible Health Plan (HDHP)?
         answer: |
           According to the MHIS, an HDHP is defined by the Internal Revenue Service as having an annual deductible over $1,400 for single coverage or $2,800 for family coverage in 2021.
-      - question:  What is the purpose of asking private commercially insured residents if their insurance plan is an HDHP in the MHIS survey?
+      - question: What is the purpose of asking private commercially insured residents if their insurance plan is an HDHP in the MHIS survey?
         answer: |
           The purpose is to identify whether the resident's insurance plan meets the IRS definition of an HDHP, which may affect the calculation of out-of-pocket health care costs and affordability issues.
 
@@ -133,7 +133,7 @@ seed_examples:
       - question: How do employees of smaller firms compare to employees of larger firms in terms of their total monthly premium payments?
         answer: |
           According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
-      - question:  What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
+      - question: What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
         answer: |
           Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
 
