@@ -1,0 +1,112 @@
+version: 3
+domain: Quality of Care
+seed_examples:
+  - context: |
+        ## Quality of Care in the Commonwealth
+
+        The 2022 Massachusetts Aligned Measure Set is comprised of a total of 35 measures that are endorsed for use in global budget APMs, 23 of which were drawn from the Healthcare Effectiveness Data and Information Set (HEDIS ). This report ® includes 2022 statewide scores for 20 of the endorsed HEDIS ®  measures that are in the measure set. Some of these measures were newly collected this year, but 2020 scores are also included for 15 of the 20 measures. For most measures, a higher score is better; note that a lower score is better for HbA1c Poor Control (&gt;9%).
+
+        Higher scores were reported in 2022 for 10 of the 15 measures with data available for both years. While many measures that require an in-person test or visit improved, performance on two screening measures-colorectal cancer and cervical cancer-declined in 2022 compared to 2020; however, it is important to note that the recommended age range for the Colorectal Cancer Screening measure changed during this time period, so lower scores are expected for 2022 as the new recommendation is implemented. Adolescent Immunizations, on the other hand, improved notably with the largest score increase observed for the measures where comparison is possible, from 28.5 in 2020 to 48.5 in 2022.
+
+        While this chart highlights some high-level findings, CHIA will publish a full report on the Aligned Measure Set in summer 2024.
+    questions_and_answers:
+      - question: How does the clinical quality measures compare between 2020 and 2022?
+        answer: the clinical quality measures improved in 2022 compared to 2020 for 10 of the 15 measures with data available for both years.
+      - question: What is the Massachusetts Aligned Measure Set?
+        answer: The Massachusetts Aligned Measure Set is comprised of a total of 35 measures that are endorsed for use in global budget APMs, 23 of which were drawn from the Healthcare Effectiveness Data and Information Set (HEDIS).
+      - question: What is the significance of the HbA1c Poor Control measure?
+        answer: The HbA1c Poor Control measure is significant because it is one of the measures where a lower score is better, indicating better control of diabetes.
+  - context: | 
+      On most measures collected for calendar year 2022, patient-reported scores of Massachusetts hospitals were similar to the median patientreported scores at hospitals nationally, with Massachusetts scores generally deviating no more than one point from national medians.
+
+      Patient experience ratings of Massachusetts hospitals continued to fall below the patient experience ratings of the top-performing (75th percentile) hospitals nationally.
+
+      Massachusetts patients rated Nurse and Doctor Communication more highly than other domains of care (median score of 91 and 90 out of 100 for both domains, respectively). Statewide median scores were lowest for Quietness and Communication about Medicines (76 out of 100). See technical appendix for detailed descriptions of each measure domain.
+
+      In 2022, the median score in Massachusetts for Quietness was six points below the national median score (76 statewide vs. 82 nationally, out of 100).
+    questions_and_answers:
+      - question: |
+          How do Massachusetts hospitals compare to national averages in patient-reported experience?
+        answer: |
+          Massachusetts hospitals performed close to national averages in most areas. However, patient ratings on hospital quietness were six points lower than the national median. Communication and responsiveness scored well, but noise levels in hospitals remain a concern​.
+      - question: |
+          Which aspects of care received the highest and lowest ratings in Massachusetts hospitals?
+        answer: |
+          Highest-rated aspects: Nurse and Doctor Communication, with median scores of 91 and 90 out of 100, respectively.
+          Lowest-rated aspects: Quietness and Communication about Medicines, both scoring 76 out of 100 statewide.
+      - question: |
+          How did Massachusetts hospitals score on Quietness compared to national hospitals?
+        answer: |
+          Massachusetts hospitals had a median Quietness score of 76 out of 100, which was six points lower than the national median of 82. This suggests that hospital noise levels were a more common concern for patients in Massachusetts than in other states.
+  - context: |
+          Similar to adult patient-reported experiences with primary care providers, Communication was the highest-scoring domain for pediatric visits in 2022, followed by Willingness to Recommend (98.2 and 96.2 out of 100, respectively).
+
+          Caregivers rated pediatric visit experiences in most survey domains very similarly in 2022 compared to 2021, but notable improvements were observed in the three lowest-scoring domains-Child Development (increased from 75.0 in 2021 to 77.5 in 2022), Pediatric Preventive Care (increased from 66.2 to 66.9), and Self-Management Support (increased from 50.5 to 53.9).
+
+          While this report highlights some high-level results of the patient experience survey, CHIA will publish a full report on the Aligned Measure Set, including provider-level results and MHQP's Measured Equity program statewide results stratified by race and ethnicity, in summer 2024.
+    questions_and_answers: 
+      - question: |
+          Which aspects of pediatric primary care received the highest ratings in 2022?
+        answer: |
+          Communication was the highest-rated domain for pediatric primary care visits in 2022, scoring 98.2 out of 100. The second highest-rated domain was Willingness to Recommend, with a score of 96.2 out of 100.
+      - question: |
+          Which pediatric care domains showed the most improvement from 2021 to 2022?
+        answer: |
+          The three lowest-scoring domains in 2021 saw improvements in 2022:
+          Child Development scores increased from 75.0 to 77.5.
+          Pediatric Preventive Care improved slightly, from 66.2 to 66.9.
+          Self-Management Support had the largest improvement, rising from 50.5 to 53.9.
+      - question: |
+          What additional reporting on pediatric patient experiences is expected in 2024?
+        answer: |
+          CHIA will release a full report on the Aligned Measure Set in summer 2024, which will include provider-level results and findings from MHQP's Measured Equity program. This report will provide statewide results stratified by race and ethnicity, offering deeper insights into pediatric patient experiences.
+  - context: |
+          MassHealth issued a primary care Patient Experience Survey (PES) to a sample of ACO adult members that had a primary care visit in 2022. For a subset of the survey domains, MassHealth established a threshold performance minimum and a goal performance benchmark for ACO performance, which are used in some components of the pay-for-performance ACO quality incentive model. The threshold performance benchmark is a minimum level of expected performance an ACO must achieve to be eligible for quality incentives, and the goal benchmark rewards high performance, as identified by MassHealth. MassHealth ACO primary care providers surpassed the threshold performance minimum for all applicable measures and are making progress toward achieving the goal benchmarks.
+
+          Overall, adult patients expressed positive experiences with their primary care providers in 2022, with the highest score in the Communication domain (86.9 out of 100) and the lowest score for the Telehealth domain (52.3 out of 100). MassHealth ACO scores are similar to, but slightly lower than, comparable surveys of members covered under commercial health plans in 2022 (see pages 139-140 for commercial PES results).
+
+          Telehealth utilization was brought to the forefront in 2020 due to the COVID-19 pandemic and is a domain that was first included in the survey in 2022 and is evolving as we learn more about how both patients and providers experience telehealth. 1 See Notes for a description of the Telehealth composite.
+    questions_and_answers:
+      - question: |
+          What is the purpose of MassHealth’s Patient Experience Survey (PES) for ACO members?
+        answer: |
+          The MassHealth Patient Experience Survey (PES) was issued to a sample of ACO adult members who had a primary care visit in 2022. The survey helps evaluate patient experiences with primary care providers and is used to assess ACO performance within the pay-for-performance quality incentive model. ACOs must meet a threshold performance minimum to qualify for incentives, and a goal benchmark rewards high performance.
+      - question: |
+          How did MassHealth ACO primary care providers perform in 2022?
+        answer: |
+          MassHealth ACO primary care providers met the threshold performance minimum for all applicable measures and are making progress toward goal benchmarks. Overall, adult patients reported positive experiences, with Communication scoring the highest at 86.9 out of 100 and Telehealth scoring the lowest at 52.3 out of 100.
+      - question: |
+          Why is the Telehealth domain important in the 2022 Patient Experience Survey?
+        answer: |
+          Telehealth utilization increased significantly during the COVID-19 pandemic, leading to its inclusion in the 2022 MassHealth PES for the first time. The Telehealth domain received the lowest rating (52.3 out of 100), indicating that both patients and providers are still adapting to virtual care. As telehealth evolves, future surveys will provide more insight into patient and provider experiences.
+  - context: |
+          Childbirth is the most common reason for a hospital admission in Massachusetts. To reduce potentially harmful and unnecessary maternity procedures, The Leapfrog Group-a national nonprofit watchdog organization-sets standards and collects voluntary data from hospitals to measure performance.
+
+          In 2022, eight of the 32 reporting hospitals achieved all three maternity care standards, and 31 reporting hospitals achieved at least one standard. One reporting hospital achieved no standards.
+
+          To achieve the Leapfrog standard for early elective deliveries, no more than 5% of deliveries may be performed early (between 37 and 39 weeks) without a medical reason. The Leapfrog standard recommends that no more than 23.6% of women with low-risk pregnancies deliver via cesarean section (C-section). Finally, Leapfrog identifies 5% or below as the target for the share of childbirths in which episiotomies are performed.
+
+          Hospitals performed well on the Episiotomy measure-28 of the 32 reporting hospitals achieved this standard. However, only eight of the 32 reporting hospitals achieved the standard for the C-section measure, indicating potential overuse of the procedure among low-risk pregnancies.
+    questions_and_answers:
+      - question: |
+          What is the purpose of The Leapfrog Group’s maternity care standards?
+        answer: |
+          The Leapfrog Group, a national nonprofit watchdog organization, sets maternity care standards and collects voluntary hospital data to reduce unnecessary and potentially harmful maternity procedures. These standards focus on early elective deliveries, C-sections for low-risk pregnancies, and episiotomies to improve maternal and newborn health outcomes.
+      - question: |
+          How did Massachusetts hospitals perform on Leapfrog’s maternity care standards in 2022?
+        answer: |
+          Eight out of 32 hospitals met all three standards.
+          31 hospitals met at least one standard.
+          One hospital met none of the standards.
+          Hospitals performed best on the Episiotomy measure, with 28 out of 32 hospitals meeting the standard.
+      - question: |
+          Which maternity care standard had the lowest hospital compliance in Massachusetts?
+        answer: |
+          The C-section standard had the lowest compliance, with only eight out of 32 hospitals meeting Leapfrog’s recommendation that no more than 23.6% of low-risk pregnancies should result in a C-section. This suggests potential overuse of the procedure among low-risk pregnancies.
+document_outline: |
+  The Massachusetts health care system faced rising costs, affordability challenges, and ongoing pandemic-related financial pressures in 2022. While insurance coverage remained strong, rising premiums, increased HDHP enrollment, and growing out-of-pocket costs posed challenges for consumers. Additionally, telehealth and behavioral health services played a growing role, even as overall utilization declined slightly from pandemic peaks.
+document:
+  repo: https://github.com/eformat/health-care.git
+  commit: 4659362a7ed08efa06d6ff9f1113da1c2652d80a
+  patterns:
+    - 2024-Annual-Report.md
