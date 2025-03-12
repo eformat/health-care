@@ -1,0 +1,199 @@
+version: 3
+domain: Healthcare Access Information
+created_by: Uzoma Nwosu
+document_outline: >-
+  Knowledge about how the public accesses care from the Center of Health
+  Information and Analysis (CHIA)
+seed_examples:
+  - context: |-
+      Despite members enrolled in smaller employer plans
+      paying, on average, similar or higher monthly premiums
+      than members in larger employer plans, members enrolled
+      through larger employer groups had more of their medical
+      costs covered by their health plans. Additionally, from
+      2021 to 2022, member cost-sharing increased the fastest
+      for members enrolled in small (1-50 employees) and mid-
+      size (51-100 employees) group plans, increasing 7.8%
+      and 8.0%, respectively, representing the greatest increase
+      above 2019 pre-pandemic levels.
+      In 2022, over 1.7 million Massachusetts contract members,
+      representing 42.4% of the commercial market, were
+      enrolled in a high deductible health plan (HDHP). Per
+      federal IRS rules, a HDHP is defined as a plan with a
+      deductible greater than or equal to $1,400. The enrollment
+      increase in 2022 continued long-term growth trends in
+      HDHPs, which have experienced enrollment more than
+      double since 2014 when only 19.0% of members were
+      enrolled in HDHPs. Unsubsidized individual purchasers
+      and members enrolled in smaller group plans had a greater
+      prevalence of HDHP enrollment, with 90% of unsubsidized
+      individual purchasers and more than two-thirds of small
+      and mid-size group members enrolled in HDHPs.
+    questions_and_answers:
+      - question: What is the percentage of members in the commercial market in 2022?
+        answer: >-
+          In 2022 there were over 1.7 million Massachusetts contract member
+          representing 42.4% of the commercial market.
+      - question: 'What is the high deductible health plan?  '
+        answer: >-
+          Per federal IRS rules, a HDHP is defined as a plan with a deductible
+          greater than or equal to $1,400.
+      - question: Has the enrollement increased since 2022?
+        answer: |-
+          The enrollment
+          increase in 2022 continued long-term growth trends in
+          HDHPs, which have experienced enrollment more than
+          double since 2014 when only 19.0% of members were
+          enrolled in HDHPs.
+  - context: |-
+      Telehealth allows patients to receive medical care remotely through phone,
+      video, or online platforms. This can increase access to healthcare
+      services, especially for those living in rural or underserved areas by providing
+      them with the opportunity to receive medical care remotely, reducing the need for
+      lengthy travel to healthcare facilities. The use of telehealth has increased
+      significantly during the COVID-19 pandemic, as many healthcare providers
+      and patients have turned to remote consultations to minimize the risk of transmission.
+      According to Massachusetts Health Policy Commission, the top conditions treated
+      via telehealth in 2022 included chronic conditions such as diabetes,
+      hypertension, and asthma, as well as mental health conditions like anxiety and depression.
+      In Massachusetts, effective January 1, 2021, Chapter 260 of the Acts of 2020
+      mandated telehealth payment parity, requiring telehealth services to be reimbursed
+      at the same rate as in-person services. Specifically, it required payment parity for
+      behavioral health services in perpetuity; for certain primary care and chronic
+      disease management services through January 1, 2023; and for all other services through
+      90 days after the end of the state of emergency. The Health Policy Commission’s Telehealth Use
+      in the Commonwealth and Policy Recommendations showed telehealth utilization peaked
+      in April of 2020, representing nearly 70% of primary care, specialist, and behavioral health
+      visits. Throughout the remainder of 2020, the proportion of primary care and
+      specialist-provided care delivered via telehealth declined, while the proportion
+      of behavioral health visits provided via telehealth remained high.
+    questions_and_answers:
+      - question: >-
+          What are some of the benefits of using telehealth for patients living
+          in rural or underserved areas?
+        answer: >-
+          Telehealth can increase access to healthcare services for patients
+          living in rural or underserved areas by providing them with the
+          opportunity to receive medical care remotely, reducing the need for
+          lengthy travel to healthcare facilities.
+      - question: How has the use of telehealth changed during the COVID-19 pandemic?
+        answer: >-
+          The use of telehealth has increased significantly during the COVID-19
+          pandemic, as many healthcare providers and patients have turned to
+          remote consultations to minimize the risk of transmission.
+      - question: What types of conditions are most commonly treated via telehealth?
+        answer: >-
+          According to Massachusetts Health Policy Commission, the top
+          conditions treated via telehealth in 2022 included chronic conditions
+          such as diabetes, hypertension, and asthma, as well as mental health
+          conditions like anxiety and depression.
+  - context: |-
+      APTC is a federal tax credit available to individuals and families with
+      incomes below 400% of the Federal Poverty Level (FPL) who enroll in plans
+      sold on the Health Connector. The purpose of the APTC is to help individuals
+      and families with incomes below 400% of the Federal Poverty Level (FPL) afford health
+      insurance premiums by providing them with a federal tax credit.
+      This credit can be applied directly to premiums or paid as a lump sum as part of the member's tax return.
+      The Affordable Premium Tax Credit (APTC) provides eligible individuals
+      and families with a federal tax credit based on income and family size.
+      The credit can be applied to monthly premiums or claimed as a lump sum on tax returns.
+      Depending on income and other eligibility factors, qualifying Massachusetts residents
+      may purchase ConnectorCare plans that include state cost-sharing reduction (CSR) subsidies
+      and premium subsidies, as well as federal Advance Premium Tax Credits (APTCs).
+      Other members who earn too much to qualify for ConnectorCare plans may still receive APTCs
+      based on federal affordability standards; they are identified as APTC-only throughout this chapter.
+      While the vast majority of private commercial members are covered under employer-sponsored insurance (ESI),
+      some individuals purchase plans for themselves and their families via the Health Connector, through intermediaries
+      or directly from insurers. In this report, these members are referred to as
+      “individual purchasers.” APTC-only members were grouped under unsubsidized individual purchasers
+      throughout this report, unless otherwise noted.
+    questions_and_answers:
+      - question: What is the purpose of the Advance Premium Tax Credit (APTC)?
+        answer: >-
+          The purpose of the APTC is to help individuals and families with
+          incomes below 400% of the Federal Poverty Level (FPL) afford health
+          insurance premiums by providing them with a federal tax credit.
+      - question: Who is eligible for the Advance Premium Tax Credit (APTC)?
+        answer: >-
+          Individuals and families with incomes below 400% of the Federal
+          Poverty Level (FPL) are eligible for Affordable Premium Tax Credits
+          (APTC) on Health Connector plans.
+      - question: How does the Advance Premium Tax Credit (APTC) work?
+        answer: >-
+          The Affordable Premium Tax Credit (APTC) provides eligible individuals
+          and families with a federal tax credit based on income and family
+          size. The credit can be applied to monthly premiums or claimed as a
+          lump sum on tax returns.
+  - context: |-
+      ASO commercial payers provide administrative services for self-insured employers,
+      including plan design, network access, claims adjudication, and population health management.
+      The primary benefit of using an ASO for self-insured employers is that it allows them to outsource administrative tasks,
+      such as plan design and claims administration, to a third-party administrator,
+      freeing up internal resources for other business activities.
+      When using an ASO, self-insured employers typically have limited ability
+      to choose their own network providers. Commercial payers that perform administrative
+      services for self-insured employers. Services can include plan design and network access,
+      claims adjudication and administration, and/or population health management.
+      Health insurance premiums are set prospectively based on historical data and projected
+      growth in claims and administrative costs. Premium revenues are used to cover member health
+      care expenses (i.e., claims costs), as well as general administrative costs (e.g., taxes, fees,
+      and broker commissions; hereafter referred to as “non-medical expenses”), and contributions to surplus.
+      The 2022 premiums were calculated in early 2021 using health care spending data from
+      a combination of 2019 and 2020 to account for the uncertainty in trends caused by the pandemic.
+      In 2022, after paying for members’ health care expenses, the funds available to health plans to
+      cover non-medical expenses and contributions to surplus increased 42.9% to $77 PMPM, following a 36.0% decrease
+      between 2020 and 2021.
+    questions_and_answers:
+      - question: What services do ASO commercial payers provide to self-insured employers?
+        answer: >-
+          ASO commercial payers provide a range of services to self-insured employers,
+          including plan design, network access, claims adjudication, and population health management.
+      - question: What is the primary benefit of using an ASO for self-insured employers?
+        answer: >-
+          The primary benefit of using an ASO for self-insured employers is that it allows them to
+          outsource administrative tasks, such as plan design and claims administration,
+          to a third-party administrator, freeing up internal resources for other business activities.
+      - question: Can self-insured employers choose their own network providers when using an ASO?
+        answer: >-
+          No, when using an ASO, self-insured employers typically have limited ability to choose their own network providers.
+  - context: |-
+      ACOs are groups of healthcare providers that contract with payers to assume responsibility
+      for delivering care to attributed patients and improving health outcomes. The goal of
+      an Accountable Care Organization (ACO) is to improve the quality of care, reduce costs, and enhance patient outcomes by
+      coordinating care across different healthcare providers and settings.
+      Accountable Care Organizations (ACOs) receive payment through value-based contracts
+      that reward them for achieving quality and cost targets, rather than traditional fee-for-service payments.
+      Among MassHealth plans, Primary Care ACOs (ACO-Bs) spent the highest proportion of total spending on
+      behavioral health care (17.4%), as well as the highest SUD spending of all plan types ($35 PMPM in 2022).
+      In 2022, 29.3% of ACO-B members had a behavioral health diagnosis, a 1.0 percentage point decline from 2021.
+      This report presents payer adherence to the Commonwealth’s recommended Aligned Measure Set in their APM
+      contracts with providers. The goal of the Aligned Measure Set is to prioritize the use of meaningful quality
+      measures and promote aligned accountability across payers and providers. Statewide scores on a subset of
+      Aligned Measure Set measures are reported, including comparison of 2022 results with 2020 results on 14 clinical
+      quality measures. For 10 of these measures, 2022 scores improved compared to 2020 scores. This report
+      also includes results from the 2022 MassHealth Member Experience Survey, which was issued to samples
+      of Accountable Care Organization (ACO) members in early 2022 with a recent primary care visit. Findings
+      from a similar survey of members enrolled in private commercial health plans are also presented in this report,
+      as well as data on hospital performance metrics including readmissions rates, patient experience ratings following
+      hospital visits, maternity care, nursing workforce, and hospital adherence to hand hygiene safe practices.
+    questions_and_answers:
+      - question: What is an Accountable Care Organization (ACO)?
+        answer: >-
+          An Accountable Care Organization (ACO) is a group of healthcare
+          providers that contract with payers to assume responsibility for
+          delivering care to attributed patients and improving health outcomes.
+      - question: What is the goal of an Accountable Care Organization (ACO)?
+        answer: >-
+          The goal of an Accountable Care Organization (ACO) is to improve the
+          quality of care, reduce costs, and enhance patient outcomes by
+          coordinating care across different healthcare providers and settings.
+      - question: How do Accountable Care Organizations (ACOs) receive payment?
+        answer: >-
+          Accountable Care Organizations (ACOs) receive payment through
+          value-based contracts that reward them for achieving quality and cost
+          targets, rather than traditional fee-for-service payments.
+document:
+  repo: https://github.com/eformat/health-care.git
+  commit: 354b1ee97f383245efa1cae73f51cff13089fdc9
+  patterns:
+    - 2024-Annual-Report.pdf
