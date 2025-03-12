@@ -124,13 +124,15 @@ are used. CHIA’s “benefit level” metric quantifies
 the percentage of medical costs covered by fully-
 insured commercial health plans.
 questions_and_answers:
-        - question: 
+        - question: What is the benefit level metric, and how does it relate to the percentage of medical costs covered by fully-insured commercial health plans?
           answer: |
-          
-        - question: 
+          The benefit level metric is a measure of the percentage of medical costs covered by fully-insured commercial health plans. It quantifies the amount of coverage provided by the insurance plan, with higher benefit levels indicating greater coverage.
+        - question: How do employees of smaller firms compare to employees of larger firms in terms of their total monthly premium payments?
           answer: |
-        - question:  
+          According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
+        - question:  What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
           answer: |
+          Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
 
 document:
   repo: https://github.com/eformat/health-care.git
