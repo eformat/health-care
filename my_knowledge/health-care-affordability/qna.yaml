@@ -13,13 +13,13 @@ seed_examples:
     questions_and_answers:
       - question: What are the major contributors to Massachusetts residents affording health care services?
         answer: |
-          Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
+          Major contributors for Massachusetts residents to afford health services are due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
       - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
         answer: |
-          As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.
+          Considerations for policymakers and other stakeholders are to chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.
       - question: How do policy makers evaluate the current health care challenges?
         answer: |
-          To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
+          Policy makers evalte the current health challenge by gathering a complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
 
   - context: |
       CHIA collects and analyzes data on enrollment, member cost-sharing, and the cost of coverage for Massachusetts private commercial health insurance. Payers submit data by market sector, product type (HMO, PPO, POS), funding type
