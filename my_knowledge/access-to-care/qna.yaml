@@ -1,2 +1,84 @@
-
-
+created_by: Uzoma Nwosu
+version: 3
+domain: Access to Care Information
+document_outline: >-
+  Knowledge about how the public accesses care from the Center of Health
+  Information and Analysis (CHIA)
+seed_examples:
+  - context: |-
+      In 2022, over 1.7 million Massachusetts contract members,
+      representing 42.4% of the commercial market, were
+      enrolled in a high deductible health plan (HDHP). Per
+      federal IRS rules, a HDHP is defined as a plan with a
+      deductible greater than or equal to $1,400. The enrollment
+      increase in 2022 continued long-term growth trends in
+      HDHPs, which have experienced enrollment more than
+      double since 2014 when only 19.0% of members were
+      enrolled in HDHPs.
+    questions_and_answers:
+      - question: What is the percentage of members in the commercial market in 2022?
+        answer: >-
+          In 2022 there were over 1.7 million Massachusetts contract member
+          representing 42.4% of the commercial market.
+      - question: 'What is the high deductible health plan?  '
+        answer: >-
+          Per federal IRS rules, a HDHP is defined as a plan with a deductible
+          greater than or equal to $1,400.
+      - question: Has the enrollement increased since 2022?
+        answer: |-
+          The enrollment
+          increase in 2022 continued long-term growth trends in
+          HDHPs, which have experienced enrollment more than
+          double since 2014 when only 19.0% of members were
+          enrolled in HDHPs.
+  - context: >-
+      Telehealth allows patients to receive medical care remotely through phone,
+      video, or online platforms. This can increase access to healthcare
+      services, especially for those living in rural or underserved areas.
+    questions_and_answers:
+      - question: >-
+          What are some of the benefits of using telehealth for patients living
+          in rural or underserved areas?
+        answer: >-
+          Telehealth can increase access to healthcare services for patients
+          living in rural or underserved areas by providing them with the
+          opportunity to receive medical care remotely, reducing the need for
+          lengthy travel to healthcare facilities.
+      - question: How has the use of telehealth changed during the COVID-19 pandemic?
+        answer: >-
+          The use of telehealth has increased significantly during the COVID-19
+          pandemic, as many healthcare providers and patients have turned to
+          remote consultations to minimize the risk of transmission.
+      - question: What types of conditions are most commonly treated via telehealth?
+        answer: >-
+          According to Massachusetts Health Policy Commission, the top
+          conditions treated via telehealth in 2022 included chronic conditions
+          such as diabetes, hypertension, and asthma, as well as mental health
+          conditions like anxiety and depression.
+  - context: >-
+      APTC is a federal tax credit available to individuals and families with
+      incomes below 400% of the Federal Poverty Level (FPL) who enroll in plans
+      sold on the Health Connector. This credit can be applied directly to
+      premiums or paid as a lump sum as part of the member's tax return.
+    questions_and_answers:
+      - question: What is the purpose of the Advance Premium Tax Credit (APTC)?
+        answer: >-
+          The purpose of the APTC is to help individuals and families with
+          incomes below 400% of the Federal Poverty Level (FPL) afford health
+          insurance premiums by providing them with a federal tax credit.
+      - question: Who is eligible for the Advance Premium Tax Credit (APTC)?
+        answer: >-
+          Individuals and families with incomes below 400% of the Federal
+          Poverty Level (FPL) are eligible for Affordable Premium Tax Credits
+          (APTC) on Health Connector plans.
+      - question: How does the Advance Premium Tax Credit (APTC) work?
+        answer: >-
+          The Affordable Premium Tax Credit (APTC) provides eligible individuals
+          and families with a federal tax credit based on income and family
+          size. The credit can be applied to monthly premiums or claimed as a
+          lump sum on tax returns.
+document:
+  repo: https://github.com/eformat/health-care.git
+  commit: 4659362a7ed08efa06d6ff9f1113da1c2652d80a
+  patterns:
+    - 2024-Annual-Report.md
