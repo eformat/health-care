@@ -16,8 +16,9 @@ Massachusetts residents face growing health care affordability concerns due to r
   - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
     answer: |
 As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.     
-  - question: What is a java ArithmeticException "/ by zero", and how do I fix it ?
+  - question: How do policy makers evaluate the current health care challenges?
     answer: |
+     To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
 document:
   repo: https://github.com/eformat/health-care.git
   commit: 2f241f8e6a95fe7b00d843afd5f118a8d0386eb7
