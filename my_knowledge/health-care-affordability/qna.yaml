@@ -19,7 +19,7 @@ seed_examples:
           Considerations for policymakers and other stakeholders are to chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.
       - question: How do policy makers evaluate the current health care challenges?
         answer: |
-          Policy makers evalte the current health challenge by gathering a complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
+          Policy makers evaluate the current health challenge by gathering a complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
 
   - context: |
       CHIA collects and analyzes data on enrollment, member cost-sharing, and the cost of coverage for Massachusetts private commercial health insurance. Payers submit data by market sector, product type (HMO, PPO, POS), funding type
@@ -114,7 +114,7 @@ seed_examples:
 
   - context: |
       Insurance purchasers (members and/or employers)
-      compare and balance health plan premiums with
+      compare and balance health plan premiums with underserved
 
       potential out-of-pocket costs (“member cost-
       sharing”). Some may choose plans with lower
