@@ -5,11 +5,11 @@ document_outline: 2024 Annual Report for Performance of Massachusetts Health Car
 seed_examples:
   - context: |
       Despite near universal health insurance coverage in Massachusetts, residents report challenges affording necessary health care services. To present a more
-complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams. Massachusetts residents face growing
-health care affordability concerns due to rising healthcare costs, increased demand for health care services, and growing enrollment in high deductible health plans
-(HDHPs). Metrics presented in this chapter represent some, but not all, of the financial impact of health care costs on Massachusetts residents and employers. As
-policymakers and other stakeholders chart the path forward amid a changed health care landscape, healthcare affordability remains a critical consideration in
-examining the performance of the Massachusetts healthcare system.
+      complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams. Massachusetts residents face growing
+      health care affordability concerns due to rising healthcare costs, increased demand for health care services, and growing enrollment in high deductible health plans
+      (HDHPs). Metrics presented in this chapter represent some, but not all, of the financial impact of health care costs on Massachusetts residents and employers. As
+      policymakers and other stakeholders chart the path forward amid a changed health care landscape, healthcare affordability remains a critical consideration in
+      examining the performance of the Massachusetts healthcare system.
     questions_and_answers:
         - question: What are the major contributors to Massachusetts residents affording health care services?
           answer: |
@@ -23,9 +23,9 @@ examining the performance of the Massachusetts healthcare system.
 
   - context: |
       Member cost-sharing includes all medical expenses allowed under a member’s plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies(e.g., deductibles, copays, and co-insurance). Cost-sharing
-is based on service utilization, while deductible and out-of-pocket maximums are set at enrollment before actual claims experiences. Figures in this chapter include members who incurred little to no medical costs as well as those who may
-have experienced substantial medical costs. They do not include out-of-pocket payments for goods and services not covered by the members’ health insurance policies (e.g., over-the-counter medicines, standalone vision and
-dental care). Member cost-sharing also does not account for employer offsets, such as health reimbursement arrangements or health savings accounts.
+      is based on service utilization, while deductible and out-of-pocket maximums are set at enrollment before actual claims experiences. Figures in this chapter include members who incurred little to no medical costs as well as those who may
+      have experienced substantial medical costs. They do not include out-of-pocket payments for goods and services not covered by the members’ health insurance policies (e.g., over-the-counter medicines, standalone vision and
+      dental care). Member cost-sharing also does not account for employer offsets, such as health reimbursement arrangements or health savings accounts.
     questions_and_answers:
         - question: What types of expenses are included in member cost-sharing?
           answer: |
@@ -101,13 +101,13 @@ dental care). Member cost-sharing also does not account for employer offsets, su
     questions_and_answers:
       - question: What types of out-of-pocket health care costs are included in the MHIS calculation?
         answer: |
-        The MHIS includes direct spending by residents and their families on deductibles, copays, and coinsurance for benefits covered by their health insurance, as well as spending on medical, dental, and vision services not covered by insurance.
+          The MHIS includes direct spending by residents and their families on deductibles, copays, and coinsurance for benefits covered by their health insurance, as well as spending on medical, dental, and vision services not covered by insurance.
       - question: How does the MHIS define a High-Deductible Health Plan (HDHP)?
         answer: |
-        According to the MHIS, an HDHP is defined by the Internal Revenue Service as having an annual deductible over $1,400 for single coverage or $2,800 for family coverage in 2021.
+          According to the MHIS, an HDHP is defined by the Internal Revenue Service as having an annual deductible over $1,400 for single coverage or $2,800 for family coverage in 2021.
       - question:  What is the purpose of asking private commercially insured residents if their insurance plan is an HDHP in the MHIS survey?
         answer: |
-        The purpose is to identify whether the resident's insurance plan meets the IRS definition of an HDHP, which may affect the calculation of out-of-pocket health care costs and affordability issues.
+          The purpose is to identify whether the resident's insurance plan meets the IRS definition of an HDHP, which may affect the calculation of out-of-pocket health care costs and affordability issues.
 
   - context: |
       Insurance purchasers (members and/or employers)
@@ -129,13 +129,13 @@ dental care). Member cost-sharing also does not account for employer offsets, su
     questions_and_answers:
             - question: What is the benefit level metric, and how does it relate to the percentage of medical costs covered by fully-insured commercial health plans?
               answer: |
-              The benefit level metric is a measure of the percentage of medical costs covered by fully-insured commercial health plans. It quantifies the amount of coverage provided by the insurance plan, with higher benefit levels indicating greater coverage.
+                The benefit level metric is a measure of the percentage of medical costs covered by fully-insured commercial health plans. It quantifies the amount of coverage provided by the insurance plan, with higher benefit levels indicating greater coverage.
             - question: How do employees of smaller firms compare to employees of larger firms in terms of their total monthly premium payments?
               answer: |
-              According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
+                According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
             - question:  What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
               answer: |
-              Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
+                Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
 
 document:
   repo: https://github.com/eformat/health-care.git
