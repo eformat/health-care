@@ -1,10 +1,18 @@
 task_description: "Teach the model about Java Exceptions"
 domain: health_care_affordability
 created_by: eformat
+document_outline: 2024 Annual Report for Performance of Massachusetts Health Care System provides overview of total health care expenditures, affordability, privated and public health insurance programs.
 seed_examples:
-  - question: What is a java NullPointerException, and how do I fix it?
+-context: 
+Despite near universal health insurance coverage in Massachusetts, residents report challenges affording necessary health care services. To present a more
+complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams. Massachusetts residents face growing
+health care affordability concerns due to rising healthcare costs, increased demand for health care services, and growing enrollment in high deductible health plans
+(HDHPs). Metrics presented in this chapter represent some, but not all, of the financial impact of health care costs on Massachusetts residents and employers. As
+policymakers and other stakeholders chart the path forward amid a changed health care landscape, healthcare affordability remains a critical consideration in
+examining the performance of the Massachusetts healthcare system.
+  - question: What are the major contributors to Massachusetts residents affording health care services?
     answer: |
-      NullPointerExceptions are exceptions that occur when you try to use a reference that points to no location in memory (null) as though it were referencing an object.
+Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
   - question: What is a java ArrayIndexOutOfBoundsException, and how do I fix it ?
     answer: |
       As we know, in Java, an array is a static data structure, and we define its size at the time of creation.
