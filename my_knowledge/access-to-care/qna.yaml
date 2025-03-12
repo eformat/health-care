@@ -92,7 +92,31 @@ seed_examples:
           size. The credit can be applied to monthly premiums or claimed as a
           lump sum on tax returns.
   - context: |
-      ACOs are groups of healthcare providers that contract with payers to assume responsibility for delivering care to attributed patients and improving health outcomes.
+      ASO commercial payers provide administrative services for self-insured employers,
+      including plan design, network access, claims adjudication, and population health management.
+      The primary benefit of using an ASO for self-insured employers is that it allows them to outsource administrative tasks,
+      such as plan design and claims administration, to a third-party administrator,
+      freeing up internal resources for other business activities.
+    questions_and_answers:
+      - question: What services do ASO commercial payers provide to self-insured employers?
+        answer: >-
+          ASO commercial payers provide a range of services to self-insured employers,
+          including plan design, network access, claims adjudication, and population health management.
+      - question: What is the primary benefit of using an ASO for self-insured employers?
+        answer: >-
+          The primary benefit of using an ASO for self-insured employers is that it allows them to
+          outsource administrative tasks, such as plan design and claims administration,
+          to a third-party administrator, freeing up internal resources for other business activities.
+      - question: Can self-insured employers choose their own network providers when using an ASO?
+        answer: >-
+          No, when using an ASO, self-insured employers typically have limited ability to choose their own network providers.
+  - context: |
+      ACOs are groups of healthcare providers that contract with payers to assume responsibility
+      for delivering care to attributed patients and improving health outcomes. The goal of
+      an Accountable Care Organization (ACO) is to improve the quality of care, reduce costs, and enhance patient outcomes by
+      coordinating care across different healthcare providers and settings.
+      Accountable Care Organizations (ACOs) receive payment through value-based contracts
+      that reward them for achieving quality and cost targets, rather than traditional fee-for-service payments.
     questions_and_answers:
       - question: What is an Accountable Care Organization (ACO)?
         answer: >-
