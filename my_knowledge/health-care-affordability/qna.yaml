@@ -11,15 +11,15 @@ seed_examples:
       policymakers and other stakeholders chart the path forward amid a changed health care landscape, healthcare affordability remains a critical consideration in
       examining the performance of the Massachusetts healthcare system.
     questions_and_answers:
-        - question: What are the major contributors to Massachusetts residents affording health care services?
-          answer: |
-            Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
-        - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
-          answer: |
-            As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.     
-        - question: How do policy makers evaluate the current health care challenges?
-          answer: |
-            To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
+      - question: What are the major contributors to Massachusetts residents affording health care services?
+        answer: |
+          Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
+      - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
+        answer: |
+          As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.     
+      - question: How do policy makers evaluate the current health care challenges?
+        answer: |
+          To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
 
   - context: |
       Member cost-sharing includes all medical expenses allowed under a member’s plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies(e.g., deductibles, copays, and co-insurance). Cost-sharing
@@ -27,15 +27,15 @@ seed_examples:
       have experienced substantial medical costs. They do not include out-of-pocket payments for goods and services not covered by the members’ health insurance policies (e.g., over-the-counter medicines, standalone vision and
       dental care). Member cost-sharing also does not account for employer offsets, such as health reimbursement arrangements or health savings accounts.
     questions_and_answers:
-        - question: What types of expenses are included in member cost-sharing?
-          answer: |
-            Member cost-sharing includes deductibles, copays, and co-insurance, which are medical expenses allowed under a member's plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies.
-        - question: Why are out-of-pocket payments for goods and services not covered by health insurance policies excluded from member cost-sharing? 
-          answer: |
-           Out-of-pocket payments for goods and services not covered by health insurance policies, such as over-the-counter medicines, standalone vision and dental care, are excluded from member cost-sharing because they are not related to medical expenses covered by the health insurance policy.  
-        - question: Are employer offsets, such as health reimbursement arrangements or health savings accounts, taken into account when calculating member cost-sharing?
-          answer: |
-            No, employer offsets, such as health reimbursement arrangements or health savings accounts, are not taken into account when calculating member cost-sharing. This means that these types of payments are not included in the member's out-of-pocket expenses and are not considered when determining their cost-sharing obligations.
+      - question: What types of expenses are included in member cost-sharing?
+        answer: |
+          Member cost-sharing includes deductibles, copays, and co-insurance, which are medical expenses allowed under a member's plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies.
+      - question: Why are out-of-pocket payments for goods and services not covered by health insurance policies excluded from member cost-sharing? 
+        answer: |
+          Out-of-pocket payments for goods and services not covered by health insurance policies, such as over-the-counter medicines, standalone vision and dental care, are excluded from member cost-sharing because they are not related to medical expenses covered by the health insurance policy.  
+      - question: Are employer offsets, such as health reimbursement arrangements or health savings accounts, taken into account when calculating member cost-sharing?
+        answer: |
+          No, employer offsets, such as health reimbursement arrangements or health savings accounts, are not taken into account when calculating member cost-sharing. This means that these types of payments are not included in the member's out-of-pocket expenses and are not considered when determining their cost-sharing obligations.
 
   - context: |
       Private commercial insurance is administered on either a
@@ -127,15 +127,15 @@ seed_examples:
       insured commercial health plans.
 
     questions_and_answers:
-            - question: What is the benefit level metric, and how does it relate to the percentage of medical costs covered by fully-insured commercial health plans?
-              answer: |
-                The benefit level metric is a measure of the percentage of medical costs covered by fully-insured commercial health plans. It quantifies the amount of coverage provided by the insurance plan, with higher benefit levels indicating greater coverage.
-            - question: How do employees of smaller firms compare to employees of larger firms in terms of their total monthly premium payments?
-              answer: |
-                According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
-            - question:  What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
-              answer: |
-                Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
+      - question: What is the benefit level metric, and how does it relate to the percentage of medical costs covered by fully-insured commercial health plans?
+        answer: |
+          The benefit level metric is a measure of the percentage of medical costs covered by fully-insured commercial health plans. It quantifies the amount of coverage provided by the insurance plan, with higher benefit levels indicating greater coverage.
+      - question: How do employees of smaller firms compare to employees of larger firms in terms of their total monthly premium payments?
+        answer: |
+          According to survey data, employees of smaller firms are responsible for paying a larger proportion of their total monthly premiums, on average, than employees of larger firms.
+      - question:  What is the difference between unsubsidized individual-purchaser premiums and employer-sponsored coverage, and how do ConnectorCare base premiums fit into this comparison?
+        answer: |
+          Unsubsidized individual-purchaser premiums are higher than employer-sponsored coverage, with unsubsidized individual-purchaser premiums increasing 5.5% between 2021 and 2022 to $523 PMPM. ConnectorCare base premiums (before subsidies) were the lowest of any market sector in 2022 ($470 PMPM) but also increased the fastest at 8.3%.
 
 document:
   repo: https://github.com/eformat/health-care.git
