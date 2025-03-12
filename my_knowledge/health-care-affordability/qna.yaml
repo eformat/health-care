@@ -3,8 +3,8 @@ domain: health_care_affordability
 created_by: eformat
 document_outline: 2024 Annual Report for Performance of Massachusetts Health Care System provides overview of total health care expenditures, affordability, privated and public health insurance programs.
 seed_examples:
--context: 
-Despite near universal health insurance coverage in Massachusetts, residents report challenges affording necessary health care services. To present a more
+  - context: |
+      Despite near universal health insurance coverage in Massachusetts, residents report challenges affording necessary health care services. To present a more
 complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams. Massachusetts residents face growing
 health care affordability concerns due to rising healthcare costs, increased demand for health care services, and growing enrollment in high deductible health plans
 (HDHPs). Metrics presented in this chapter represent some, but not all, of the financial impact of health care costs on Massachusetts residents and employers. As
