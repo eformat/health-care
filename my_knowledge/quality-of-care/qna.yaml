@@ -2,16 +2,20 @@ version: 3
 domain: Quality of Care
 seed_examples:
   - context: |
-        <Context from the document associated with this set of sample q&a pairs.>
+        ## Quality of Care in the Commonwealth
+
+        The 2022 Massachusetts Aligned Measure Set is comprised of a total of 35 measures that are endorsed for use in global budget APMs, 23 of which were drawn from the Healthcare Effectiveness Data and Information Set (HEDIS ). This report ® includes 2022 statewide scores for 20 of the endorsed HEDIS ®  measures that are in the measure set. Some of these measures were newly collected this year, but 2020 scores are also included for 15 of the 20 measures. For most measures, a higher score is better; note that a lower score is better for HbA1c Poor Control (&gt;9%).
+
+        Higher scores were reported in 2022 for 10 of the 15 measures with data available for both years. While many measures that require an in-person test or visit improved, performance on two screening measures-colorectal cancer and cervical cancer-declined in 2022 compared to 2020; however, it is important to note that the recommended age range for the Colorectal Cancer Screening measure changed during this time period, so lower scores are expected for 2022 as the new recommendation is implemented. Adolescent Immunizations, on the other hand, improved notably with the largest score increase observed for the measures where comparison is possible, from 28.5 in 2020 to 48.5 in 2022.
+
+        While this chart highlights some high-level findings, CHIA will publish a full report on the Aligned Measure Set in summer 2024.
     questions_and_answers:
-      - question: |
-           <A question used for synthetic data generation. Based upon the previous context.>
-        answer: |
-           <The desired response for the question. Based upon the previous context.>
-      - question: |
-        answer: |
-      - question: |
-        answer: |
+      - question: How does the clinical quality measures compare between 2020 and 2022?
+        answer: the clinical quality measures improved in 2022 compared to 2020 for 10 of the 15 measures with data available for both years.
+      - question: What is the Massachusetts Aligned Measure Set?
+        answer: The Massachusetts Aligned Measure Set is comprised of a total of 35 measures that are endorsed for use in global budget APMs, 23 of which were drawn from the Healthcare Effectiveness Data and Information Set (HEDIS).
+      - question: What is the significance of the HbA1c Poor Control measure?
+        answer: The HbA1c Poor Control measure is significant because it is one of the measures where a lower score is better, indicating better control of diabetes.
   - context: |
     questions_and_answers:
       - question: |
