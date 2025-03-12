@@ -102,6 +102,11 @@ seed_examples:
       and premium subsidies, as well as federal Advance Premium Tax Credits (APTCs).
       Other members who earn too much to qualify for ConnectorCare plans may still receive APTCs
       based on federal affordability standards; they are identified as APTC-only throughout this chapter.
+      While the vast majority of private commercial members are covered under employer-sponsored insurance (ESI),
+      some individuals purchase plans for themselves and their families via the Health Connector, through intermediaries
+      or directly from insurers. In this report, these members are referred to as
+      “individual purchasers.” APTC-only members were grouped under unsubsidized individual purchasers
+      throughout this report, unless otherwise noted.
     questions_and_answers:
       - question: What is the purpose of the Advance Premium Tax Credit (APTC)?
         answer: >-
