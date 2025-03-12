@@ -1,2 +1,17 @@
-
-
+task_description: "Teach the model about Java Exceptions"
+domain: health_care_affordability
+created_by: eformat
+seed_examples:
+  - question: What is a java NullPointerException, and how do I fix it?
+    answer: |
+      NullPointerExceptions are exceptions that occur when you try to use a reference that points to no location in memory (null) as though it were referencing an object.
+  - question: What is a java ArrayIndexOutOfBoundsException, and how do I fix it ?
+    answer: |
+      As we know, in Java, an array is a static data structure, and we define its size at the time of creation.
+  - question: What is a java ArithmeticException "/ by zero", and how do I fix it ?
+    answer: |
+document:
+  repo: https://github.com/eformat/my_knowledge2.git
+  commit: b3786093f12d947e6a1a4e3d0edb4bceb037e0ca
+  patterns: 
+    - "*.md"
