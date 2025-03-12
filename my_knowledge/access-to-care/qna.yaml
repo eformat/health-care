@@ -6,15 +6,29 @@ document_outline: >-
   Information and Analysis (CHIA)
 seed_examples:
   - context: |-
-      In 2022, over 1.7 million Massachusetts contract members,
-      representing 42.4% of the commercial market, were
-      enrolled in a high deductible health plan (HDHP). Per
-      federal IRS rules, a HDHP is defined as a plan with a
-      deductible greater than or equal to $1,400. The enrollment
-      increase in 2022 continued long-term growth trends in
-      HDHPs, which have experienced enrollment more than
-      double since 2014 when only 19.0% of members were
-      enrolled in HDHPs.
+      Despite members enrolled in smaller employer plans
+paying, on average, similar or higher monthly premiums
+than members in larger employer plans, members enrolled
+through larger employer groups had more of their medical
+costs covered by their health plans. Additionally, from
+2021 to 2022, member cost-sharing increased the fastest
+for members enrolled in small (1-50 employees) and mid-
+size (51-100 employees) group plans, increasing 7.8%
+and 8.0%, respectively, representing the greatest increase
+above 2019 pre-pandemic levels.
+In 2022, over 1.7 million Massachusetts contract members,
+representing 42.4% of the commercial market, were
+enrolled in a high deductible health plan (HDHP). Per
+federal IRS rules, a HDHP is defined as a plan with a
+deductible greater than or equal to $1,400. The enrollment
+increase in 2022 continued long-term growth trends in
+HDHPs, which have experienced enrollment more than
+double since 2014 when only 19.0% of members were
+enrolled in HDHPs. Unsubsidized individual purchasers
+and members enrolled in smaller group plans had a greater
+prevalence of HDHP enrollment, with 90% of unsubsidized
+individual purchasers and more than two-thirds of small
+and mid-size group members enrolled in HDHPs.
     questions_and_answers:
       - question: What is the percentage of members in the commercial market in 2022?
         answer: >-
