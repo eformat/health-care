@@ -91,6 +91,25 @@ seed_examples:
           and families with a federal tax credit based on income and family
           size. The credit can be applied to monthly premiums or claimed as a
           lump sum on tax returns.
+  - context: |
+      ACOs are groups of healthcare providers that contract with payers to assume responsibility for delivering care to attributed patients and improving health outcomes.
+    questions_and_answers:
+      - question: What is an Accountable Care Organization (ACO)?
+        answer: >-
+          An Accountable Care Organization (ACO) is a group of healthcare
+          providers that contract with payers to assume responsibility for
+          delivering care to attributed patients and improving health outcomes.
+      - question: What is the goal of an Accountable Care Organization (ACO)?
+        answer: >-
+          The goal of an Accountable Care Organization (ACO) is to improve the
+          quality of care, reduce costs, and enhance patient outcomes by
+          coordinating care across different healthcare providers and settings.
+      - question: How do Accountable Care Organizations (ACOs) receive payment?
+        answer: >-
+          Accountable Care Organizations (ACOs) receive payment through
+          value-based contracts that reward them for achieving quality and cost
+          targets, rather than traditional fee-for-service payments.
+
 document:
   repo: https://github.com/eformat/health-care.git
   commit: 4659362a7ed08efa06d6ff9f1113da1c2652d80a
