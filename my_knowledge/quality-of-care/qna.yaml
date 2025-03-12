@@ -1,5 +1,8 @@
 version: 3
 domain: Quality of Care
+created_by: Uzoma Nwosu
+document_outline: |
+  The Massachusetts health care system faced rising costs, affordability challenges, and ongoing pandemic-related financial pressures in 2022. While insurance coverage remained strong, rising premiums, increased HDHP enrollment, and growing out-of-pocket costs posed challenges for consumers. Additionally, telehealth and behavioral health services played a growing role, even as overall utilization declined slightly from pandemic peaks.
 seed_examples:
   - context: |
         ## Quality of Care in the Commonwealth
@@ -103,8 +106,6 @@ seed_examples:
           Which maternity care standard had the lowest hospital compliance in Massachusetts?
         answer: |
           The C-section standard had the lowest compliance, with only eight out of 32 hospitals meeting Leapfrog’s recommendation that no more than 23.6% of low-risk pregnancies should result in a C-section. This suggests potential overuse of the procedure among low-risk pregnancies.
-document_outline: |
-  The Massachusetts health care system faced rising costs, affordability challenges, and ongoing pandemic-related financial pressures in 2022. While insurance coverage remained strong, rising premiums, increased HDHP enrollment, and growing out-of-pocket costs posed challenges for consumers. Additionally, telehealth and behavioral health services played a growing role, even as overall utilization declined slightly from pandemic peaks.
 document:
   repo: https://github.com/eformat/health-care.git
   commit: 4659362a7ed08efa06d6ff9f1113da1c2652d80a
