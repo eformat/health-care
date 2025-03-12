@@ -1,5 +1,5 @@
 version: 3
-domain: Access to Care Information
+domain: Healthcare Access Information
 created_by: Uzoma Nwosu
 document_outline: >-
   Knowledge about how the public accesses care from the Center of Health
@@ -48,7 +48,14 @@ seed_examples:
   - context: |
       Telehealth allows patients to receive medical care remotely through phone,
       video, or online platforms. This can increase access to healthcare
-      services, especially for those living in rural or underserved areas.
+      services, especially for those living in rural or underserved areas by providing
+      them with the opportunity to receive medical care remotely, reducing the need for
+      lengthy travel to healthcare facilities. The use of telehealth has increased
+      significantly during the COVID-19 pandemic, as many healthcare providers
+      and patients have turned to remote consultations to minimize the risk of transmission.
+      According to Massachusetts Health Policy Commission, the top conditions treated
+      via telehealth in 2022 included chronic conditions such as diabetes,
+      hypertension, and asthma, as well as mental health conditions like anxiety and depression.
     questions_and_answers:
       - question: >-
           What are some of the benefits of using telehealth for patients living
@@ -72,8 +79,13 @@ seed_examples:
   - context: |
       APTC is a federal tax credit available to individuals and families with
       incomes below 400% of the Federal Poverty Level (FPL) who enroll in plans
-      sold on the Health Connector. This credit can be applied directly to
-      premiums or paid as a lump sum as part of the member's tax return.
+      sold on the Health Connector. The purpose of the APTC is to help individuals
+      and families with incomes below 400% of the Federal Poverty Level (FPL) afford health
+      insurance premiums by providing them with a federal tax credit.
+      This credit can be applied directly to premiums or paid as a lump sum as part of the member's tax return.
+      The Affordable Premium Tax Credit (APTC) provides eligible individuals
+      and families with a federal tax credit based on income and family size.
+      The credit can be applied to monthly premiums or claimed as a lump sum on tax returns.
     questions_and_answers:
       - question: What is the purpose of the Advance Premium Tax Credit (APTC)?
         answer: >-
@@ -97,6 +109,8 @@ seed_examples:
       The primary benefit of using an ASO for self-insured employers is that it allows them to outsource administrative tasks,
       such as plan design and claims administration, to a third-party administrator,
       freeing up internal resources for other business activities.
+      When using an ASO, self-insured employers typically have limited ability
+      to choose their own network providers.
     questions_and_answers:
       - question: What services do ASO commercial payers provide to self-insured employers?
         answer: >-
