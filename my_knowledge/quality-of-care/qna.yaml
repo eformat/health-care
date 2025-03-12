@@ -11,7 +11,7 @@ seed_examples:
         While this chart highlights some high-level findings, CHIA will publish a full report on the Aligned Measure Set in summer 2024.
     questions_and_answers:
       - question: How did healthcare quality scores in Massachusetts change between 2020 and 2022?
-        answer: The 2022 Massachusetts Aligned Measure Set consists of 35 endorsed quality measures, 23 of which come from the Healthcare Effectiveness Data and Information Set (HEDIS®). These measures are used in global budget alternative payment models (APMs) to assess and improve healthcare quality in the state. The 2022 report includes statewide scores for 20 HEDIS measures, helping track performance trends over time.
+        answer: The 2022 Massachusetts Aligned Measure Set consists of 35 endorsed quality measures, 23 of which come from the Healthcare Effectiveness Data and Information Set (HEDIS). These measures are used in global budget alternative payment models (APMs) to assess and improve healthcare quality in the state. The 2022 report includes statewide scores for 20 HEDIS measures, helping track performance trends over time.
       - question: What is the Massachusetts Aligned Measure Set?
         answer: 10 out of 15 measures improved from 2020 to 2022. Measures that required in-person visits or tests saw notable improvements. However, colorectal and cervical cancer screening rates declined, likely due to changes in recommended screening guidelines. Adolescent immunizations showed the most significant improvement, increasing from 28.5 in 2020 to 48.5 in 2022.
       - question: When will more detailed findings on the Aligned Measure Set be available?
