@@ -20,6 +20,24 @@ examining the performance of the Massachusetts healthcare system.
         - question: How do policy makers evaluate the current health care challenges?
           answer: |
             To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
+
+  - context:
+  Member cost-sharing includes all medical expenses allowed under a member’s plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies(e.g., deductibles, copays, and co-insurance). Cost-sharing
+is based on service utilization, while deductible and out-of-pocket maximums are set at enrollment before actual claims experiences. Figures in this chapter include members who incurred little to no medical costs as well as those who may
+have experienced substantial medical costs. They do not include out-of-pocket payments for goods and services not covered by the members’ health insurance policies (e.g., over-the-counter medicines, standalone vision and
+dental care). Member cost-sharing also does not account for employer offsets, such as health reimbursement arrangements or health savings accounts.
+    questions_and_answers:
+        - question: What are the major contributors to Massachusetts residents affording health care services?
+          answer: |
+            Massachusetts residents face growing health care affordability concerns due to rising health care costs, increased demand for health care services, and growing enrollment in high deductible health plans (HDHPs).
+        - question: What are current considerations for Policy Makers in support of Massachusetts Residents?
+          answer: |
+            As policymakers and other stakeholders chart the path forward amid a changed health care landscape, health care affordability remains a critical consideration in examining the performance of the Massachusetts health care system.     
+        - question: How do policy makers evaluate the current health care challenges?
+          answer: |
+            To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
+
+
 document:
   repo: https://github.com/eformat/health-care.git
   commit: 2f241f8e6a95fe7b00d843afd5f118a8d0386eb7
