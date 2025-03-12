@@ -20,6 +20,6 @@ As policymakers and other stakeholders chart the path forward amid a changed hea
     answer: |
 document:
   repo: https://github.com/eformat/health-care.git
-  commit: 4659362a7ed08efa06d6ff9f1113da1c2652d80a
+  commit: 2f241f8e6a95fe7b00d843afd5f118a8d0386eb7
   patterns:
     - 2024-Annual-Report.md
