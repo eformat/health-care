@@ -22,6 +22,9 @@ seed_examples:
           To present a more complete picture of health care costs and corresponding challenges from the consumer perspective, this new chapter combines affordability metrics across multiple CHIA data streams.
 
   - context: |
+      CHIA collects and analyzes data on enrollment, member cost-sharing, and the cost of coverage for Massachusetts private commercial health insurance. Payers submit data by market sector, product type (HMO, PPO, POS), funding type
+      (self- or fully-insured), and benefit design type (HDHP, tiered network, limited network). Unless otherwise noted, data citing “Payer-reported data to CHIA” in this chapter highlights membership and cost trends for members covered under
+      private commercial contracts established in Massachusetts (which may include non-Massachusetts residents) and includes both fully- and self-insured members.
       Member cost-sharing includes all medical expenses allowed under a member’s plan but not paid for by the payer, employer, or state cost-sharing reduction (CSR) subsidies(e.g., deductibles, copays, and co-insurance). Cost-sharing
       is based on service utilization, while deductible and out-of-pocket maximums are set at enrollment before actual claims experiences. Figures in this chapter include members who incurred little to no medical costs as well as those who may
       have experienced substantial medical costs. They do not include out-of-pocket payments for goods and services not covered by the members’ health insurance policies (e.g., over-the-counter medicines, standalone vision and
